@@ -1,0 +1,241 @@
+Origem,Destino,DescricaoOrigem,DescricaoDestino,Tempo
+AFP,BTF,Afonso Pena,Botafogo,21:10
+AFP,CAV,Afonso Pena,Cardeal Arcoverde,25:30
+AFP,CNL,Afonso Pena,Cinelândia,12:32
+AFP,CRC,Afonso Pena,Carioca,11:05
+AFP,CTR,Afonso Pena,Central,06:35
+AFP,CTT,Afonso Pena,Catete,15:56
+AFP,ESA,Afonso Pena,Estácio,02:20
+AFP,FLA,Afonso Pena,Flamengo,19:12
+AFP,GLR,Afonso Pena,Glória,14:26
+AFP,LMC,Afonso Pena,Largo do Machado,17:34
+AFP,POZ,Afonso Pena,Praça Onze,04:25
+AFP,PVG,Afonso Pena,Presidente Vargas,07:58
+AFP,SFX,Afonso Pena,São Francisco Xavier,01:25
+AFP,SPN,Afonso Pena,Saens Peña,02:51
+AFP,URG,Afonso Pena,Uruguaiana,09:25
+BTF,AFP,Botafogo,Afonso Pena,20:29
+BTF,CAV,Botafogo,Cardeal Arcoverde,04:55
+BTF,CNL,Botafogo,Cinelândia,09:20
+BTF,CRC,Botafogo,Carioca,10:43
+BTF,CTR,Botafogo,Central,14:54
+BTF,CTT,Botafogo,Catete,05:55
+BTF,ESA,Botafogo,Estácio,18:24
+BTF,FLA,Botafogo,Flamengo,03:03
+BTF,GLR,Botafogo,Glória,07:22
+BTF,LMC,Botafogo,Largo do Machado,04:31
+BTF,POZ,Botafogo,Praça Onze,16:44
+BTF,PVG,Botafogo,Presidente Vargas,13:29
+BTF,SFX,Botafogo,São Francisco Xavier,21:54
+BTF,SPN,Botafogo,Saens Peña,23:20
+BTF,URG,Botafogo,Uruguaiana,12:17
+CAV,AFP,Cardeal Arcoverde,Afonso Pena,23:59
+CAV,BTF,Cardeal Arcoverde,Botafogo,03:30
+CAV,CNL,Cardeal Arcoverde,Cinelândia,12:50
+CAV,CRC,Cardeal Arcoverde,Carioca,14:13
+CAV,CTR,Cardeal Arcoverde,Central,18:24
+CAV,CTT,Cardeal Arcoverde,Catete,09:25
+CAV,ESA,Cardeal Arcoverde,Estácio,21:54
+CAV,FLA,Cardeal Arcoverde,Flamengo,06:33
+CAV,GLR,Cardeal Arcoverde,Glória,10:52
+CAV,LMC,Cardeal Arcoverde,Largo do Machado,08:01
+CAV,POZ,Cardeal Arcoverde,Praça Onze,20:14
+CAV,PVG,Cardeal Arcoverde,Presidente Vargas,16:59
+CAV,SFX,Cardeal Arcoverde,São Francisco Xavier,25:24
+CAV,SPN,Cardeal Arcoverde,Saens Peña,26:50
+CAV,URG,Cardeal Arcoverde,Uruguaiana,15:47
+CNL,AFP,Cinelândia,Afonso Pena,11:09
+CNL,BTF,Cinelândia,Botafogo,09:17
+CNL,CAV,Cinelândia,Cardeal Arcoverde,13:37
+CNL,CRC,Cinelândia,Carioca,01:23
+CNL,CTR,Cinelândia,Central,05:34
+CNL,CTT,Cinelândia,Catete,04:03
+CNL,ESA,Cinelândia,Estácio,09:04
+CNL,FLA,Cinelândia,Flamengo,07:19
+CNL,GLR,Cinelândia,Glória,02:33
+CNL,LMC,Cinelândia,Largo do Machado,05:41
+CNL,POZ,Cinelândia,Praça Onze,07:24
+CNL,PVG,Cinelândia,Presidente Vargas,04:09
+CNL,SFX,Cinelândia,São Francisco Xavier,12:34
+CNL,SPN,Cinelândia,Saens Peña,14:00
+CNL,URG,Cinelândia,Uruguaiana,02:57
+CRC,AFP,Carioca,Afonso Pena,09:46
+CRC,BTF,Carioca,Botafogo,10:45
+CRC,CAV,Carioca,Cardeal Arcoverde,15:05
+CRC,CNL,Carioca,Cinelândia,02:07
+CRC,CTR,Carioca,Central,04:11
+CRC,CTT,Carioca,Catete,05:31
+CRC,ESA,Carioca,Estácio,07:41
+CRC,FLA,Carioca,Flamengo,08:47
+CRC,GLR,Carioca,Glória,04:01
+CRC,LMC,Carioca,Largo do Machado,07:09
+CRC,POZ,Carioca,Praça Onze,06:01
+CRC,PVG,Carioca,Presidente Vargas,02:46
+CRC,SFX,Carioca,São Francisco Xavier,11:11
+CRC,SPN,Carioca,Saens Peña,12:37
+CRC,URG,Carioca,Uruguaiana,01:34
+CTR,AFP,Central,Afonso Pena,05:35
+CTR,BTF,Central,Botafogo,15:09
+CTR,CAV,Central,Cardeal Arcoverde,19:29
+CTR,CNL,Central,Cinelândia,06:31
+CTR,CRC,Central,Carioca,05:04
+CTR,CTT,Central,Catete,09:55
+CTR,ESA,Central,Estácio,03:30
+CTR,FLA,Central,Flamengo,13:11
+CTR,GLR,Central,Glória,08:25
+CTR,LMC,Central,Largo do Machado,11:33
+CTR,POZ,Central,Praça Onze,01:50
+CTR,PVG,Central,Presidente Vargas,01:57
+CTR,SFX,Central,São Francisco Xavier,07:00
+CTR,SPN,Central,Saens Peña,08:26
+CTR,URG,Central,Uruguaiana,03:24
+CTT,AFP,Catete,Afonso Pena,14:34
+CTT,BTF,Catete,Botafogo,05:58
+CTT,CAV,Catete,Cardeal Arcoverde,10:18
+CTT,CNL,Catete,Cinelândia,03:25
+CTT,CRC,Catete,Carioca,04:48
+CTT,CTR,Catete,Central,08:59
+CTT,ESA,Catete,Estácio,12:29
+CTT,FLA,Catete,Flamengo,04:00
+CTT,GLR,Catete,Glória,01:27
+CTT,LMC,Catete,Largo do Machado,02:22
+CTT,POZ,Catete,Praça Onze,10:49
+CTT,PVG,Catete,Presidente Vargas,07:34
+CTT,SFX,Catete,São Francisco Xavier,15:59
+CTT,SPN,Catete,Saens Peña,17:25
+CTT,URG,Catete,Uruguaiana,06:22
+ESA,AFP,Estácio,Afonso Pena,02:05
+ESA,BTF,Estácio,Botafogo,19:05
+ESA,CAV,Estácio,Cardeal Arcoverde,23:25
+ESA,CNL,Estácio,Cinelândia,10:27
+ESA,CRC,Estácio,Carioca,09:00
+ESA,CTR,Estácio,Central,04:30
+ESA,CTT,Estácio,Catete,13:51
+ESA,FLA,Estácio,Flamengo,17:07
+ESA,GLR,Estácio,Glória,12:21
+ESA,LMC,Estácio,Largo do Machado,15:29
+ESA,POZ,Estácio,Praça Onze,01:36
+ESA,PVG,Estácio,Presidente Vargas,05:53
+ESA,SFX,Estácio,São Francisco Xavier,03:30
+ESA,SPN,Estácio,Saens Peña,04:56
+ESA,URG,Estácio,Uruguaiana,07:20
+FLA,AFP,Flamengo,Afonso Pena,17:26
+FLA,BTF,Flamengo,Botafogo,02:54
+FLA,CAV,Flamengo,Cardeal Arcoverde,07:14
+FLA,CNL,Flamengo,Cinelândia,06:17
+FLA,CRC,Flamengo,Carioca,07:40
+FLA,CTR,Flamengo,Central,11:51
+FLA,CTT,Flamengo,Catete,02:52
+FLA,ESA,Flamengo,Estácio,15:21
+FLA,GLR,Flamengo,Glória,04:19
+FLA,LMC,Flamengo,Largo do Machado,01:28
+FLA,POZ,Flamengo,Praça Onze,13:41
+FLA,PVG,Flamengo,Presidente Vargas,10:26
+FLA,SFX,Flamengo,São Francisco Xavier,18:51
+FLA,SPN,Flamengo,Saens Peña,20:17
+FLA,URG,Flamengo,Uruguaiana,09:14
+GLR,AFP,Glória,Afonso Pena,13:07
+GLR,BTF,Glória,Botafogo,07:25
+GLR,CAV,Glória,Cardeal Arcoverde,11:45
+GLR,CNL,Glória,Cinelândia,01:58
+GLR,CRC,Glória,Carioca,03:21
+GLR,CTR,Glória,Central,07:32
+GLR,CTT,Glória,Catete,02:11
+GLR,ESA,Glória,Estácio,11:02
+GLR,FLA,Glória,Flamengo,05:27
+GLR,LMC,Glória,Largo do Machado,03:49
+GLR,POZ,Glória,Praça Onze,09:22
+GLR,PVG,Glória,Presidente Vargas,06:07
+GLR,SFX,Glória,São Francisco Xavier,14:32
+GLR,SPN,Glória,Saens Peña,15:58
+GLR,URG,Glória,Uruguaiana,04:55
+LMC,AFP,Largo do Machado,Afonso Pena,15:58
+LMC,BTF,Largo do Machado,Botafogo,04:30
+LMC,CAV,Largo do Machado,Cardeal Arcoverde,08:50
+LMC,CNL,Largo do Machado,Cinelândia,04:49
+LMC,CRC,Largo do Machado,Carioca,06:12
+LMC,CTR,Largo do Machado,Central,10:23
+LMC,CTT,Largo do Machado,Catete,01:24
+LMC,ESA,Largo do Machado,Estácio,13:53
+LMC,FLA,Largo do Machado,Flamengo,02:32
+LMC,GLR,Largo do Machado,Glória,02:51
+LMC,POZ,Largo do Machado,Praça Onze,12:13
+LMC,PVG,Largo do Machado,Presidente Vargas,08:58
+LMC,SFX,Largo do Machado,São Francisco Xavier,17:23
+LMC,SPN,Largo do Machado,Saens Peña,18:49
+LMC,URG,Largo do Machado,Uruguaiana,07:46
+POZ,AFP,Praça Onze,Afonso Pena,03:45
+POZ,BTF,Praça Onze,Botafogo,17:02
+POZ,CAV,Praça Onze,Cardeal Arcoverde,21:22
+POZ,CNL,Praça Onze,Cinelândia,08:24
+POZ,CRC,Praça Onze,Carioca,06:57
+POZ,CTR,Praça Onze,Central,02:27
+POZ,CTT,Praça Onze,Catete,11:48
+POZ,ESA,Praça Onze,Estácio,01:40
+POZ,FLA,Praça Onze,Flamengo,15:04
+POZ,GLR,Praça Onze,Glória,10:18
+POZ,LMC,Praça Onze,Largo do Machado,13:26
+POZ,PVG,Praça Onze,Presidente Vargas,03:50
+POZ,SFX,Praça Onze,São Francisco Xavier,05:10
+POZ,SPN,Praça Onze,Saens Peña,06:36
+POZ,URG,Praça Onze,Uruguaiana,05:17
+PVG,AFP,Presidente Vargas,Afonso Pena,07:00
+PVG,BTF,Presidente Vargas,Botafogo,13:35
+PVG,CAV,Presidente Vargas,Cardeal Arcoverde,17:55
+PVG,CNL,Presidente Vargas,Cinelândia,04:57
+PVG,CRC,Presidente Vargas,Carioca,03:30
+PVG,CTR,Presidente Vargas,Central,01:25
+PVG,CTT,Presidente Vargas,Catete,08:21
+PVG,ESA,Presidente Vargas,Estácio,04:55
+PVG,FLA,Presidente Vargas,Flamengo,11:37
+PVG,GLR,Presidente Vargas,Glória,06:51
+PVG,LMC,Presidente Vargas,Largo do Machado,09:59
+PVG,POZ,Presidente Vargas,Praça Onze,03:15
+PVG,SFX,Presidente Vargas,São Francisco Xavier,08:25
+PVG,SPN,Presidente Vargas,Saens Peña,09:51
+PVG,URG,Presidente Vargas,Uruguaiana,01:50
+SFX,AFP,São Francisco Xavier,Afonso Pena,01:32
+SFX,BTF,São Francisco Xavier,Botafogo,22:36
+SFX,CAV,São Francisco Xavier,Cardeal Arcoverde,26:56
+SFX,CNL,São Francisco Xavier,Cinelândia,13:58
+SFX,CRC,São Francisco Xavier,Carioca,12:31
+SFX,CTR,São Francisco Xavier,Central,08:01
+SFX,CTT,São Francisco Xavier,Catete,17:22
+SFX,ESA,São Francisco Xavier,Estácio,03:52
+SFX,FLA,São Francisco Xavier,Flamengo,20:38
+SFX,GLR,São Francisco Xavier,Glória,15:52
+SFX,LMC,São Francisco Xavier,Largo do Machado,19:00
+SFX,POZ,São Francisco Xavier,Praça Onze,05:51
+SFX,PVG,São Francisco Xavier,Presidente Vargas,09:24
+SFX,SPN,São Francisco Xavier,Saens Peña,01:26
+SFX,URG,São Francisco Xavier,Uruguaiana,10:51
+SPN,AFP,Saens Peña,Afonso Pena,03:32
+SPN,BTF,Saens Peña,Botafogo,24:13
+SPN,CAV,Saens Peña,Cardeal Arcoverde,28:33
+SPN,CNL,Saens Peña,Cinelândia,15:35
+SPN,CRC,Saens Peña,Carioca,14:08
+SPN,CTR,Saens Peña,Central,09:38
+SPN,CTT,Saens Peña,Catete,18:59
+SPN,ESA,Saens Peña,Estácio,05:52
+SPN,FLA,Saens Peña,Flamengo,22:15
+SPN,GLR,Saens Peña,Glória,17:29
+SPN,LMC,Saens Peña,Largo do Machado,20:37
+SPN,POZ,Saens Peña,Praça Onze,07:28
+SPN,PVG,Saens Peña,Presidente Vargas,11:01
+SPN,SFX,Saens Peña,São Francisco Xavier,02:00
+SPN,URG,Saens Peña,Uruguaiana,12:28
+URG,AFP,Uruguaiana,Afonso Pena,08:12
+URG,BTF,Uruguaiana,Botafogo,12:18
+URG,CAV,Uruguaiana,Cardeal Arcoverde,16:38
+URG,CNL,Uruguaiana,Cinelândia,03:40
+URG,CRC,Uruguaiana,Carioca,02:13
+URG,CTR,Uruguaiana,Central,02:37
+URG,CTT,Uruguaiana,Catete,07:04
+URG,ESA,Uruguaiana,Estácio,06:07
+URG,FLA,Uruguaiana,Flamengo,10:20
+URG,GLR,Uruguaiana,Glória,05:34
+URG,LMC,Uruguaiana,Largo do Machado,08:42
+URG,POZ,Uruguaiana,Praça Onze,04:27
+URG,PVG,Uruguaiana,Presidente Vargas,01:12
+URG,SFX,Uruguaiana,São Francisco Xavier,09:37
+URG,SPN,Uruguaiana,Saens Peña,11:03

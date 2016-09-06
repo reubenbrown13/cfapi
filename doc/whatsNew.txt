@@ -1,0 +1,83 @@
+
+Changes in version 1.0.1
+
+* Compatible with Railo.
+* Compatible with Lucee Server.
+
+Changes in version 1.0.2
+
+* Now generates KML output entry-point if detects LATITUDE and LONGITUDE fields in a view.
+
+Changes in version 1.0.3
+
+* Now generates GeoJSON output entry-point if detects LATITUDE and LONGITUDE fields in a view.
+
+Changes in version 1.0.4
+
+* KML now showing view correctly centered when open on Google Earth.
+* GeoJSON working seamlessly.
+* Generated API entry-points links now appear as clickable and open in a new browser tab, saving time.
+* Added feature to copy access token to clipboard for testing purposes.
+
+Changes in version 1.0.5
+
+* For CSV file generation, now accepts download=false parameter in URL for better compatibility with CKAN.
+* Yet for CSV, now accepts delimiter=[delimiter] parameter in URL for better compatibility with CKAN.
+* Wraps field values with double quotes (") if finds commas (,) or another specified delimiter. 
+* Decided to remove API version control. The main purpose of CFapi is to generate an API FIRST version.
+
+Changes in version 1.0.6
+
+* Added a complete Android consumer example (with map) in "examples" folder.
+* Added picture "howItWorks" in "doc" folder.
+
+Changes in version 1.0.7
+
+* Changed license from Apache to MIT.
+* Corrected REST/JSON output´s content-type value from text/plain to application/json for better compatibility.
+* Added content-type charset to specify utf-8 as standard.
+* Enabled CORS header to make possible cross-domain rest/json consumption (javascript).
+* Now generates dynamically a base Android APP customized for your dynamic generated API
+  (if it finds LATITUDE and LONGITUDE fields).
+  
+    
+Changes in version 1.0.8
+
+* Added xml output for APIs.
+
+
+Changes in version 1.0.9
+
+* New feature allows creation of APIs from CSV files.
+
+Changes in version 1.1.0
+
+* Added support for Google Protocol Buffers (binary format). Now every dynamic generated API has a binary output stream,
+  which allows to have a Google Protocol Buffer endpoint. All ".proto" files and needed classes are also dynamic generated.
+  It is possible to download the ".proto" files by appending "&getProtoFile=yes" parameter to the endpoint URL, so you
+  will be able to compile them into other languages using protoc.exe and then consume the binary stream in other languages.
+  
+  Remember to restart Coldfusion Application Service between API creations, otherwise JavaLoader compiler might skip
+  some *.java files (don't no yet why this happens).
+    
+Changes in version 1.1.1
+
+   * Google Protocol Buffers api generation now also works on Railo and Lucee.
+
+Changes in version 1.1.2
+
+   * New feature allows user to review/evaluate API exposed items, rating them with stars and comment.
+   * Generate separate data gateway files (one for each dataset) to allow easier server deployment of generated APIs without overwrites.
+   * Put all the fields inside every format. All formats should expose the data in the same way.
+   * Bug solved: If two dynamic generated APIs resided on the same server and had identical named datasets,
+     they were spoiling each other´s cached contents. Added apiName identifier to cache names.
+   * Now developer can choose if wants to generate API from database only or also from CSV files.
+   * Now CSV files sourced datasets also generate Google Protocol Buffers output.
+
+1.1.3
+
+   TO-DO: 
+          If the value of the field of the CSV has commas, it is truncating in the first comma. To be corrected.
+          
+              
+    

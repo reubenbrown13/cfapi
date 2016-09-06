@@ -1,0 +1,106 @@
+estacao,sigla,ramal,latitude,longitude,nomeAntigo,bicicletario,km,endereço,cep
+Agostinho Porto,AGO,Belford Roxo,-22.78860158,-43.38142338,,0,29.57,Avenida Rio D’Ouro 496,25550-660
+Barros Filho,BFO,Belford Roxo,-22.83283177,-43.36651676,,0,23.592,Estrada João Paulo s/n,21516-200
+Belford Roxo,BRX,Belford Roxo,-22.76348481,-43.40030709,,0,32.976,Rua Floripes da Rocha s/n,26113-340
+Cavalcante,CAV,Belford Roxo,-22.87456836,-43.31575046,,0,15.7,Rua Enaldo dos Santos Araújo 936,21370-200
+Coelho da Rocha,CRA,Belford Roxo,-22.77916113,-43.38715096,,0,30.791,Rua da Matriz 3.351,25550-170
+Costa Barros,COB,Belford Roxo,-22.82212796,-43.37022126,,0,25.142,Estrada de Botafogo s/n,21525-000
+Del Castilho,DEL,Belford Roxo,-22.88049188,-43.26984931,,0,10.004,Avenida Suburbana 3.600,20771-000
+Honório Gurgel,HON,Belford Roxo,-22.8496366,-43.35723218,,0,21.481,Rua das Safiras s/n,21511-380
+Jacarezinho,JAR,Belford Roxo,-22.88422866,-43.25504159,,0,8.24,Rua Comandante Gracindo de Sá 22,20972-000
+Pavuna/São João de Meriti,PVN,Belford Roxo,-22.80476289,-43.36804393,,0,27.002,Rua Nossa Senhora das Graças 13,25515-000
+Pilares,PLA,Belford Roxo,-22.88059801,-43.29219938,Cintra Vidal,0,12.372,Rua Turi s/n,20771-010
+Rocha Miranda,RMA,Belford Roxo,-22.85476201,-43.35167652,,0,20.66,Rua Conselheiro Galvão s/n,21540-000
+Tomás Coelho,TOM,Belford Roxo,-22.86902571,-43.30402244,,0,14.45,Rua MoaciRuade Almeida 68,20750-340
+Vila Rosali,VRO,Belford Roxo,-22.79406425,-43.37530791,,0,28.63,Rua Manoel Correa s/n,25510-220
+Bento Ribeiro,BRO,Deodoro,-22.86430916,-43.36206549,,0,19.278,Rua Carolina Machado s/n,21555-290
+Cascadura,CAS,Deodoro,-22.8827522,-43.32804782,,0,15.403,Avenida Suburbana s/n,21380-000
+Central do Brasil,CBL,Deodoro,-22.9033851,-43.19170889,Dom Pedro II,0,0,Praça Cristiano Ottoni s/n,20221-250
+Deodoro,DEO,Deodoro,-22.85490865,-43.38351664,,0,22.058,Avenida Duque de Caxias s/n,21615-220
+Engenho de Dentro,EDO,Deodoro,-22.89555781,-43.29444054,,0,11.398,Rua Arquias Cordeiro s/n,20770-001
+Engenho Novo,ENO,Deodoro,-22.90318776,-43.26999172,,0,8.863,Rua Vinte e Quatro de Maio s/n,20725-001
+Madureira,MAD,Deodoro,-22.8773125,-43.33658139,,0,16.68,Rua Carolina Machado s/n,21351-021
+Maracanã,MAR,Deodoro,-22.90933828,-43.23327398,Derby Club,0,4.238,Avenida Presidente Castelo Branco s/n,20271-130
+Marechal Hermes,MHS,Deodoro,-22.86097425,-43.37065899,,0,20.502,Rua João Vicente s/n,21331-260
+Méier,MER,Deodoro,-22.90179617,-43.27805618,,0,9.507,Rua Arquias Cordeiro s/n,20770-001
+Oswaldo Cruz,OCZ,Deodoro,-22.86937822,-43.34983332,,0,18.099,Rua João Vicente s/n,21340-021
+Piedade,PIE,Deodoro,-22.89049136,-43.30960487,,0,13.121,Rua Manoel Vitorino s/n,20740-280
+Praça da Bandeira,PBA,Deodoro,-22.91002694,-43.21298828,Lauro Muller,0,2.36,Praça da Bandeira s/n,20270-150
+Quintino,QTO,Deodoro,-22.88852453,-43.32118032,,0,14.357,Rua Nerval de Gouveia s/n,21311-110
+Riachuelo,RIA,Deodoro,-22.90158796,-43.25639298,,0,7.07,Rua Ana Neri s/n,20960-002
+Sampaio,SPO,Deodoro,-22.90194501,-43.26178964,,0,7.742,Rua Vinte e Quatro de Maio s/n,20725-000
+São Cristóvão,SCO,Deodoro,-22.90983717,-43.22300634,,0,3.46,Avenida Bartolomeu de Gusmão s/n,20941-160
+São Francisco Xavier,SFX,Deodoro,-22.90234709,-43.24481115,,0,5.88,Rua Vinte e Quatro de Maio s/n,20950-090
+Silva Freire,SFE,Deodoro,-22.90394565,-43.27560406,,0,9.207,Rua 24 de Maio s/n,20710-030
+Citrolândia,CLA,Guapimirim,-22.59265943,-43.01486605,,0,65.501,Rua João Café Filho s/n,25942-220
+Guapimirim,GPM,Guapimirim,-22.51995465,-42.97753906,,0,74.521,Rua Prof Rocha Faria s/n,25946-079
+Iriri,IRI,Guapimirim,-22.65312954,-43.06625322,,0,54.931,Rua Cantagalo s/n,25900-000
+Jardim Guapimirim,CPM,Guapimirim,-22.56264403,-42.99505322,Parada Capim,0,69.411,Rua H s/n,25943-410
+Jardim Nova Marília,NMA,Guapimirim,-22.63592073,-43.03031613,,0,60.131,Estrada Adam Blummer s/n,25908-683
+Jororó,JRO,Guapimirim,-22.60533239,-43.02486269,,0,63.831,Rua Sem Nome s/n,25940-000
+Magé,MGE,Guapimirim,-22.65194544,-43.04215914,,0,57.471,Rua Coronel Macieira s/n,25900-115
+Parada Bananal,BNL,Guapimirim,-22.53681406,-42.98217031,,0,72.581,Rua Claudionor Batista s/n,25946-334
+Parada Ideal,IDL,Guapimirim,-22.5794,-43.00510648,,0,67.281,Rua Sem Nome s/n,25940-000
+Parada Modelo,MDO,Guapimirim,-22.5465768,-42.98544131,,0,71.541,Rua João Nogueira da Silva s/n,25943-554
+Parque Estrela,PEA,Guapimirim,-22.65027338,-43.20821392,Meia Noite,0,39.151,Estrada União Indústria s/n,25275-440
+Surui,SRI,Guapimirim,-22.66298945,-43.12897237,,0,47.841,Rua Capitão José de Paula s/n,25922-440
+Anchieta,ACT,Japeri,-22.82538659,-43.40239292,,0,26.464,Avenida Nazaré s/n,21645-010
+Austin,AUS,Japeri,-22.72011302,-43.52343736,,0,44.503,Rua Coronel Monteiro de Barros s/n,26395-000
+Comendado Soares,CSS,Japeri,-22.74471608,-43.48781398,,0,39.741,Rua Tomaz Fonseca s/n,26280-480
+Edson Passos,EPS,Japeri,-22.79618332,-43.4227037,,0,30.39,Avenida Getúlio de Moura s/n,26240-040
+Engenheiro Pedreira,EPA,Japeri,-22.67859647,-43.60619524,,1,54.92,Avenida das Nações s/n,26373-320
+Japeri,JRI,Japeri,-22.64461386,-43.65298138,,1,61.749,Rua Lenir Ferreira s/n,26375-520
+Lages,LAJ,Japeri,-22.62191324,-43.70428466,,0,67.885,Rua Anibal Cardoso s/n ,26600-000
+Mesquita,MES,Japeri,-22.78281393,-43.42870264,,0,31.952,Rua Baronesa de Mesquita s/n,26235-020
+Nilópolis,NLS,Japeri,-22.80809168,-43.41547012,,0,28.724,Avenida Governador Roberto Silveira s/n,26545-770
+Nova Iguaçu,NIU,Japeri,-22.76067293,-43.45005667,,0,35.349,Avenida Marechal Floriano Peixoto s/n,26210-000
+Olinda,OLI,Japeri,-22.81746495,-43.41002904,,0,27.718,Avenida Governador Roberto Silveira s/n,26545-770
+Paracambi,PBI,Japeri,-22.61092202,-43.71072231,,0,69.776,Rua Ministro Sebastião Lacerda s/n,26600-001
+Presidente Juscelino,JUS,Japeri,-22.77094136,-43.43397412,,0,33.45,Rua Feliciano Sodré s/n,26250-480
+Queimados,QMO,Japeri,-22.71614807,-43.55592462,,0,48.297,Rua Doutor Elóy Teixeira s/n,26391-010
+Ricardo de Albuquerque,RIC,Japeri,-22.83938683,-43.3981569,,0,24.454,Avenida Nazaré s/n,21640-010
+Augusto Vasconcelos,AVS,Santa Cruz,-22.89284855,-43.53715455,,0,39.08,Rua Tenente Agenor de Brito s/n ,23013-440
+Bangu,BGU,Santa Cruz,-22.87540916,-43.46484449,,1,31.088,Rua Coronel Tamarindo s/n,21840-441
+Benjamin do Monte,BME,Santa Cruz,-22.90613366,-43.58089803,,0,43.8,Rua Campo Grande s/n,23070-000
+Campo Grande,CGE,Santa Cruz,-22.90226577,-43.56021078,,0,41.621,Rua Campo Grande s/n,23085-360
+Cosmos,COS,Santa Cruz,-22.91291931,-43.6147201,,0,47.398,Rua Campo Grande s/n,23060-660
+Guilherme da Silveira,GSA,Santa Cruz,-22.8752604,-43.45594853,,0,30.196,Rua Coronel Tamarindo s/n,21840-440
+Inhoaíba,IBA,Santa Cruz,-22.90918372,-43.5957031,,0,45.328,Rua Campo Grande s/n,23063-000
+Magalhães Bastos,MGA,Santa Cruz,-22.86799931,-43.41326229,,0,25.18,Rua São Pedro de Alcântara s/n,21615-311
+Paciência,PAC,Santa Cruz,-22.91630983,-43.63242443,,0,49.283,Estrada da Urucânia s/n ,23580-240
+Padre Miguel,PML,Santa Cruz,-22.87518483,-43.44742978,,0,29.248,Rua Coronel Tamarindo s/n,21870-000
+Realengo,REA,Santa Cruz,-22.87479967,-43.42862647,,1,27.395,Praça Campo de Marte s/n,21710-270
+Santa Cruz,SCZ,Santa Cruz,-22.9159342,-43.68472511,,1,54.774,Rua Dom João VI s/n,23570-230
+Santíssimo,STO,Santa Cruz,-22.87938262,-43.5110709,,0,35.883,Rua Annes Dias s/n,23094-010
+Senador Camará,SEN,Santa Cruz,-22.87585029,-43.48718913,,0,33.229,Rua Coronel Tamarindo s/n,21840-700
+Tancredo Neves,TNS,Santa Cruz,-22.91891418,-43.6494616,,0,50.95,Estrada da Urucânia s/n,23570-290
+Vila Militar,VMR,Santa Cruz,-22.86273998,-43.40220459,,0,24.264,Rua São Pedro de Alcântara s/n,21615-310
+Bonsucesso,BSS,Saracuruna,-22.86683789,-43.25564504,,0,7.846,Praça das Nações s/n,21041-010
+Brás de Pina,BPA,Saracuruna,-22.83016535,-43.29322026,,0,13.719,Rua Itabira s/n,21215-310
+Campos Elíseos,CEL,Saracuruna,-22.70405765,-43.28075867,,0,29.479,Rua Luis de Camões s/n,25225-000
+Cordovil,COR,Saracuruna,-22.82358558,-43.29612467,,0,14.55,Rua Itabira s/n,21215-310
+Corte Oito,COO,Saracuruna,-22.77095553,-43.30636094,,0,20.827,Rua Grajaú esquina com a Avenida Jacatirão s/n,25070-310
+Duque de Caxias,DCX,Saracuruna,-22.78724515,-43.30948981,,0,19.176,Avenida Presidente Vargas s/n,25070-330
+Gramacho,GRM,Saracuruna,-22.75167814,-43.30423811,,0,23.238,Avenida Presidente Kennedy s/n,25036-000
+Jardim Primavera,JPR,Saracuruna,-22.69030856,-43.26245293,,0,31.8,Avenida Marquês de Baependi s/n,25211-450
+Manguinhos,MGS,Saracuruna,-22.87833772,-43.251485,,0,6.58,Rua Leopoldo Bulhões s/n,20911-300
+Olaria,OLA,Saracuruna,-22.84714982,-43.26640843,,0,10.342,Rua Etelvina s/n,21060-020
+Parada de Lucas,LUC,Saracuruna,-22.81627239,-43.30076628,,0,15.547,Rua Bulhões Marcial s/n,21215-370
+Penha,PEN,Saracuruna,-22.84029818,-43.27855099,,0,11.94,Rua José Maurício s/n,21070-150
+Penha Circular,PCR,Saracuruna,-22.83637389,-43.28531762,,0,12.67,Avenida Lobo Junior s/n,21020-121
+Ramos,RMS,Saracuruna,-22.85577367,-43.2596545,,0,9.288,Rua Uranos s/n,21090-070
+Saracuruna,SAR,Saracuruna,-22.67780503,-43.24719957,,1,34.021,Avenida Nelson Mauro s/n,25211-160
+Triagem,TRI,Saracuruna,-22.89677514,-43.24413659,,0,5.65,Rua Francisco Manoel s/n,20911-270
+Vigário Geral,VGL,Saracuruna,-22.80565025,-43.30542913,,0,16.952,Rua Bulhões Marcial s/n,21215-370
+Adeus,ADS,Teleférico A,-22.86529824,-43.26119648,,0,0.64,Rua Pedro Avelino s/n,21061-640
+Alemão,ALO,Teleférico A,-22.85825628,-43.27096508,,0,2.007,Estrada do Itararé Avenida Central s/n,21061-240
+Baiana,BNA,Teleférico A,-22.85874066,-43.26628677,,0,1.54,Rua Itajubara / Rua Jorge Gomes s/n,21060-180
+Itararé,IRE,Teleférico A,-22.86156034,-43.27204644,,0,2.397,Estrada do Itararé / Rua Nova s/n,21061-240
+Palmeiras,PMS,Teleférico A,-22.86294946,-43.28149423,,0,3.326,Rua Aristóteles dos Santos / Rua Augusto Borborema s/n,20766-195
+Fragoso,FRA,Vila Inhomirim,-22.58876582,-43.18444693,,0,47.456,Rua Victor Tinoco s/n,25900-000
+Imbariê,IMB,Vila Inhomirim,-22.64217902,-43.21962989,,0,39.281,Rua Coronel Sisson s/n,25275-440
+Manoel Belo,BEM,Vila Inhomirim,-22.63047513,-43.21046919,,0,40.781,Rua Coronel Sisson s/n,25272-250
+Morabi,MBI,Vila Inhomirim,-22.65849761,-43.23054903,,0,36.965,Avenida Anhangá 20 ,25264-000
+Parada Angélica,PAG,Vila Inhomirim,-22.62070983,-43.2024352,,0,42.23,Rua Coronel Sisson s/n,25272-210
+Piabetá,PIA,Vila Inhomirim,-22.60930108,-43.17957579,,0,44.964,Rua Prefeito Olivio de Matos s/n,25935-750
+Vila Inhomirim,VIN,Vila Inhomirim,-22.57145329,-43.18484303,,0,49.37,Estrada União Indústria s/n,25900-000

@@ -1,0 +1,47 @@
+
+TERMS ASSOCIATIONS, USED IN DYNAMIC REPLACEMENT
+===== ============= ==== == ======= ===========
+
+DO NOT CHANGE THESE TERMS IN TEMPLATE FOLDER FILES!
+THEY ARE USED TO ALLOW REPLACEMENT POINTS ON TEMPLATE SOURCE CODE.
+
+[[*apiName*]]                      = This will be replaced by the name of the API that will show on URL. For example: transport
+[[*apiVersion*]]                   = Here we will put the version of the API. For example: v1
+[[*viewName*]]                     = Will be replaced by the data base view name. Notice that you can put as many views as you want, separated by commas. For example: vehicle,artist,employee
+[[*pluralViewName*]]               = We need to know the names of the views in plural. For example: vehicles,artists,employees
+[[*dataSourceName*]]               = The name of the datasource defined in Coldfusion administration.
+[[*searchFilter*]]                 = Name of the database field(s) used to search items. For example: vehicle_description,artist_name,employee_id
+[[*searchFilterType*]]             = Type of search filter. If it´s string or numeric. For example:string,string,numeric 
+[[*searchFilterSize*]]             = Number of characters in each search filter. For example: 30,50,9
+[[*accessToken*]]                  = Token value, that will be used in each request to authenticate API consumers.
+[[*daysInCache*]]                  = Defines how many days the memory cache will last until the database is consulted again.
+[[*hoursInCache*]]                 = Defines how many hours the memory cache will last until the database is consulted again.
+[[*minutesInCache*]]               = Defines how many minutes the memory cache will last until the database is consulted again.
+[[*secondsInCache*]]               = Defines how many seconds the memory cache will last until the database is consulted again.
+[[*nameFieldForKml*]]              = Name of the table field that will describe placemarks on kml file.
+[[*totalViews*]]                   = Number of views informed by the user in main screen.
+[[*totalDatasources*]]             = Total sum of datasources.
+[[*dataSourceNames*]]              = Names of each datasource separated by commas.
+[[*deAccent*]]                     = Will be replaced by a function that replaces accented characters.
+[[*myGetToken*]]                   = Will be replaced by a customized getToken function that returns empty if nothing is found in a position.
+[[*googleProtocolBufferMethods*]]  = Will get replaced by methods related to Google Protocol Buffers methods.
+[[*memoryCacheDefinitionsForGPB*]] = Will get replaced by definitions related to Google Protocol Buffers.
+
+ANDROID RELATED
+
+[[*arrayListDeclarations*]] = Will be replaced by a list of ArrayLists declarations.
+[[*initialMapLatitude*]]    = Will be replaced by the initial map latitude specified by the user.
+[[*initialMapLongitude*]]   = Will be replaced by the initial map latitude specified by the user.
+[[*viewNameUC*]]            = Represents the name of the table/view with first letter in upper case.
+[[*viewNameLC*]]            = Represents the name of the table/view with first letter in lower case.
+[[*endPointDomain*]]        = Dynamically generated Android APP will base its API calls on this domain name.
+[[*searchFilterUC*]]        = Database field to search for items. Here with first letter capitalized for Java.
+[[*jsonFetchForAppWS*]]     = Will get replaced by the fetch instructions to get values from JSON in Android WS consumer.
+[[*jsonSettersforAppWS*]]   = Will be replaced by the set instructions to fill ArrayList element in Android WS consumer.
+ 
+FILE AS DATASOURCE RELATED
+
+[[*dynamicMethodsForCsvFiles*]]       = Will be replaced by code that fetches data from CSV
+[[*memoryCacheDefinitionsForCSV*]]    = Will be replaced by memory cache definitions on application.cfm file.
+
+ 
